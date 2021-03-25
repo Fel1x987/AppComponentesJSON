@@ -1,0 +1,37 @@
+{
+  "nombreApp": "APP4_RES",
+  "rutas":[
+      {
+          "id" : 1,
+          "ruta": "alert", 
+          "icono": "add_alert",
+          "texto": "Menu 1, Alertas"
+      },
+      {
+          "id" : 1,
+          "ruta": "avatar", 
+          "icono": "add_alert",
+          "texto": "Hola como estas?"
+      }
+  ],
+  "rutas2":[
+    {
+        "ruta": "alert", 
+        "icono": "folder_open",
+        "texto": "Menu 2 Ir a detalle"
+    },
+    {
+        "ruta": "avatar", 
+        "icono": "folder_open",
+        "texto": "Muy bien y tú?"
+    }
+],
+"rutas3":[
+  {
+    "ruta": "desc", 
+    "icono": "accessibility",
+    "texto": "Descripción :D",
+    "sub" : "La Caída de Reach, también conocida como la Batalla de Reach, fue uno de los enfrentamientos más grandes dentro de la Guerra Humano-Covenant. Se libró en y alrededor de la colonia humana de Reach entre la Fuerza de Defensa del UNSC y el Covenant desde el 25 de Julio hasta el 30 de Agosto de 2552, aunque algunas escaramuzas aisladas se libraron en el planeta antes y después del inicio y fin oficial de la invasión"
+}
+]
+}
